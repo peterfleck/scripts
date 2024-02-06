@@ -43,7 +43,7 @@ sudo apt-get update
 
 # INSTALL DOTNET
 
-sudo apt-get --yes install dotnet-sdk-6.0 dotnet-sdk-7.0
+sudo apt-get --yes install dotnet-sdk-6.0 dotnet-sdk-8.0
 
 # INSTALL INTUNE
 sudo apt-get --yes install intune-portal
