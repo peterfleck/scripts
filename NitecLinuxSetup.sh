@@ -88,7 +88,7 @@ sudo apt-get update && sudo apt-get install nodejs -y
 
 # INSTALL MONGO COMPASS
 
-wget https://downloads.mongodb.com/compass/mongodb-compass_1.43.6_amd64.deb -O ~/Downloads/mongocompass.deb
+wget https://downloads.mongodb.com/compass/mongodb-compass_1.44.0_amd64.deb -O ~/Downloads/mongocompass.deb
 sudo dpkg -i ~/Downloads/mongocompass.deb
 
 # INSTALL 1Password
